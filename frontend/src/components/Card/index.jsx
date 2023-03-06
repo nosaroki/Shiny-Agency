@@ -1,3 +1,4 @@
+import React from 'react'
 import PropTypes from 'prop-types'
 import DefaultPicture from '../../assets/profile.png'
 import styled from 'styled-components'
