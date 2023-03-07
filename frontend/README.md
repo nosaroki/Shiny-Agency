@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Run the API in local
+
+This goes with [the backend repository](https://github.com/OpenClassrooms-Student-Center/7150606-API-React-intermediaire.git).
+
+In order to make this project function correctly, you'll need to locally install the API. To do so:
+1. Do a `git clone https://github.com/OpenClassrooms-Student-Center/7150606-API-React-intermediaire.git`
+2. Install the `node_modules` with `yarn`
+3. Run the API with `yarn start`
+
 ## Available Scripts
 
 In the project directory, you can run:
